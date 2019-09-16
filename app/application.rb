@@ -10,6 +10,6 @@ class Application
       item = @@items.find{|i| item.name == item_name}
     
   
-  
+end 
   
 end 
